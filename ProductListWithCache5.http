@@ -1,0 +1,6 @@
+@ProductListWithCache5_HostAddress = http://localhost:5145
+
+GET {{ProductListWithCache5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,40 @@
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Visual Studio Specific Files
+.vs/
+.vscode/
+
+# Temporary Files
+*.tmp
+
+# Log Files
+*.log
+
+# NuGet Packages
+packages/
+
+# Generated Code
+Generated_Code/
+
+# Compiled Assemblies
+*.dll
+*.exe
+*.pdb
+
+# Publishing Files
+[Pp]ublish/
+
+# Resharper Files
+_ReSharper*/
+
+# Configuration Files
+appsettings.json
+appsettings.*.json
